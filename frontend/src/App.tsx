@@ -50,7 +50,7 @@ const App: React.FC = () => {
         <Main />
 
         <Spacer />
-        <Footer>Book Searcher v{version} ©2023</Footer>
+        <Footer>Conscience, Knowledgement, Rationality   {version} ©</Footer>
       </Flex>
     </RootContext.Provider>
   );
